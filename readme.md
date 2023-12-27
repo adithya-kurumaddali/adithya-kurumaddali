@@ -1,8 +1,8 @@
-<img src="https://timelinecovers.pro/facebook-cover/download/fantasy-samurai-warrior-facebook-cover.jpg" width="100%" height="100%">
+<img src="Picture-2.jpg" width="100%" height="100%">
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">Frontend developer</h3>
 <br>
-<img align="right" alt="Frontend" width="400" src="https://cdn.discordapp.com/attachments/951197655021797436/1151147173904404540/pagoda2.png">
+<img align="right" alt="Frontend" width="400" src="Picture-3.jpg">
 
 - 🌱 I'm strengthening my knowledge in **JavaScript** and **Python**
 
