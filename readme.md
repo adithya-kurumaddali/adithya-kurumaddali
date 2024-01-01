@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="Frontend" width="400" src="Picture-3.jpg">
 
-- 🌱 I'm strengthening my knowledge in **JavaScript** and **Python**
+- 🌱 I'm strengthening my knowledge in **Frontend-development** and **Python**
 
 - 👯 I’m looking to collaborate to **open source**
 
